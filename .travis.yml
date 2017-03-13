@@ -4,4 +4,4 @@ python:
 
 
 # command to run tests
-script: make test
+script: test_rpn
